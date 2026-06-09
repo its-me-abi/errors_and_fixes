@@ -1,2 +1,2 @@
 # errors_and_fixes
-common problems devs face and its solutions,
+common problems devs faces and its solutions,
